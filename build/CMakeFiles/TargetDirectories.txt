@@ -1,0 +1,8 @@
+/mnt/c/code/build/CMakeFiles/QtBasicLibrary.dir
+/mnt/c/code/build/CMakeFiles/QtBasicWindow.dir
+/mnt/c/code/build/CMakeFiles/edit_cache.dir
+/mnt/c/code/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/code/build/CMakeFiles/QtBasicLibrary_autogen_timestamp_deps.dir
+/mnt/c/code/build/CMakeFiles/QtBasicLibrary_autogen.dir
+/mnt/c/code/build/CMakeFiles/QtBasicWindow_autogen_timestamp_deps.dir
+/mnt/c/code/build/CMakeFiles/QtBasicWindow_autogen.dir
